@@ -1,0 +1,11 @@
+{
+  "name": "pig-cli-dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:HappyPhilosopher/pig-cli-dev.git",
+  "author": "painful_pig <576772193@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^5.1.8"
+  }
+}
