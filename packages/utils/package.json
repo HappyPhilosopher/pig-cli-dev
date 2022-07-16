@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/HappyPhilosopher/pig-cli-dev/issues"
   },
-  "gitHead": "528ad305ba7b82f432bcda43f1560360b87e8562"
+  "gitHead": "9e3e5d0caea6e5b434d1413f03a2f5d2a1fd3ec4",
+  "publishConfig": {
+    "access": "public"
+  }
 }
